@@ -1,0 +1,48 @@
+body {
+    background: #e3e3e3 100% no-repeat;
+
+}
+h1 {
+    background-size: auto;
+    font-family: "Arial", serif;
+}
+header{
+    background: #dadada;
+    padding: 10px;
+    margin-bottom: 50px;
+}
+.lock{
+    width: 50px;
+    height: 60px;
+}
+.autoriz{
+    alignment: center;
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+    border: 5px;
+    height: fit-content;
+    width: fit-content;
+    background: #ffffff;
+}
+form{
+    margin: 20px;
+}
+.kek{
+    text-align: center;
+}
+button{
+    border-radius: 10px;
+    border-width: 2px;
+    width: 90px;
+    height: 40px;
+    background: #ffffff;
+}
+
+input{
+    margin: 5px;
+    height: 20px;
+    border-width: 2px;
+    border-style: groove;
+    border-radius: 5px;
+}
